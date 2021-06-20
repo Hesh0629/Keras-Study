@@ -1,1 +1,1 @@
-blah blah
+for storing graph, photo etc.
